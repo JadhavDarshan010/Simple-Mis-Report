@@ -10,7 +10,7 @@ This Report Helps You To Understand The Business Processes, Business Status Base
 This project contains a Monthly Sales MIS (Management Information System) Report that summarizes product sales across months for the South Region in the year 2021.
 The dataset provides insights into sales trends, monthly quantity sold, and highlights the overall sales performance for the region.
 
-- Dashboard Interaction <a href="https://github.com/JadhavDarshan010/Simple-Mis-Report/blob/main/Mis%20Report%20Photo.png">View Dashboard /report </a
+- Dashboard Interaction <a href="https://github.com/JadhavDarshan010/Simple-Mis-Report/blob/main/Mis%20Report%20Photo.png">View Dashboard /Report 
 
 
 ## Project Insights - 
